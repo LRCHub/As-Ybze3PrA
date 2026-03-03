@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Vanity",
+  "base_artist": "LOLUET",
+  "createdAt": "2026-03-03T08:30:15.869690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Is Vanity",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/01_All_Is_Vanity_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vanity Kills",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/02_Vanity_Kills_ABC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vanity Kills (Abigails Party Mix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/03_Vanity_Kills_(Abigails_Party_Mix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Salvation Code (Makeup and Vanity Set Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/04_Salvation_Code_(Makeup_and_Vanity_Set_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vanity Fair",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/05_Vanity_Fair_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vanity Kills - The Abigails Party Mix",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/06_Vanity_Kills_-_The_Abigails_Party_Mix_ABC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vanity Kills (The Abigails Party Mix)",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/07_Vanity_Kills_(The_Abigails_Party_Mix)_ABC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vanity",
+      "artist": "Nightfall",
+      "has_synced": false,
+      "path": "select/08_Vanity_Nightfall.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Menace of Vanity",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/09_Menace_of_Vanity_Epica.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vanity",
+      "artist": "Flowing Tears",
+      "has_synced": true,
+      "path": "select/10_Vanity_Flowing_Tears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vanity",
+      "artist": "Celtic Frost",
+      "has_synced": true,
+      "path": "select/11_Vanity_Celtic_Frost.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vanity Slaves Pt. 2 (Feat. Gucci Mane)",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/12_Vanity_Slaves_Pt._2_(Feat._Gucci_Mane)_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vanity & Pride (Radio Edit)",
+      "artist": "Paola&Chiara",
+      "has_synced": false,
+      "path": "select/13_Vanity_&_Pride_(Radio_Edit)_Paola&Chiara.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vanity & Pride (Official Radio Edit)",
+      "artist": "Paola&Chiara",
+      "has_synced": false,
+      "path": "select/14_Vanity_&_Pride_(Official_Radio_Edit)_Paola&Chiara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vanity",
+      "artist": "LOLUET",
+      "has_synced": false,
+      "path": "select/pl_01_Vanity_LOLUET.txt"
+    }
+  ]
+}
